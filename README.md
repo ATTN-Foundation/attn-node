@@ -5,7 +5,7 @@ Official Golang implementation of the ATTN protocol.
 
 ## Building the source
 
-For prerequisites and detailed build instructions please read the [Installation Instructions](https://github.com/ethereum/go-ethereum/wiki/Building-Ethereum) on the wiki.
+For prerequisites and detailed build instructions please read the [Installation Instructions](https://github.com/attn/attn-node/wiki/Building-Ethereum) on the wiki.
 
 Building `attn` requires both a Go (version 1.13 or later) and a C compiler. You can install
 them using your favourite package manager. Once the dependencies are installed, run
